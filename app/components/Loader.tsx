@@ -1,11 +1,11 @@
-'use client';
+'use client'
 
-import { PuffLoader } from "react-spinners";
+import { PuffLoader } from "react-spinners"
 
 const Loader = () => {
-  return ( 
+  return (
     <div
-    className="
+      className="
       h-[70vh]
       flex 
       flex-col 
@@ -18,7 +18,7 @@ const Loader = () => {
         color="red"
       />
     </div>
-   );
+  )
 }
- 
-export default Loader;
+
+export default Loader
