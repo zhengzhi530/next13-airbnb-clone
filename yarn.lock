@@ -2901,6 +2901,7 @@ split-on-first@^3.0.0:
   integrity sha512-qxQJTx2ryR0Dw0ITYyekNQWpz6f8dGd7vffGNflQQ3Iqj9NJ6qiZ7ELpZsJ/QBhIVAiDfXdag3+Gp8RvWa62AA==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.npmmirror.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -3290,10 +3291,10 @@ which@^2.0.1:
   dependencies:
     isexe "^2.0.0"
 
-world-countries@^4.0.0:
-  version "4.1.1"
-  resolved "https://registry.npmmirror.com/world-countries/-/world-countries-4.1.1.tgz#0ea32578fc744f04dc678391ba50ee1b4bb6d4fc"
-  integrity sha512-2Vw8aRLHIRggmvM5BQsBrTHq5J8AMByksbdqQuTpxOHEgWWNMJJKdKjI6jfSBROgyTJHGm1uwQTX9d9/QhhmDw==
+world-countries@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.npmmirror.com/world-countries/-/world-countries-5.0.0.tgz#6f75ebcce3d5224d84e9117eaf0d75a7726b6501"
+  integrity sha512-wAfOT9Y5i/xnxNOdKJKXdOCw9Q3yQLahBUeuRol+s+o20F6h2a4tLEbJ1lBCYwEQ30Sf9Meqeipk1gib3YwF5w==
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0":
   version "7.0.0"
